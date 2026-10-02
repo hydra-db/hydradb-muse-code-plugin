@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "mcp_servers": {
+    "hydradb": {
+      "transport": "streamable_http",
+      "url": "https://mcp.hydradb.com",
+      "headers": { "Authorization": "Bearer ${HYDRADB_API_KEY}" },
+      "enabled": true,
+      "mode": "optional"
+    }
+  }
+}
