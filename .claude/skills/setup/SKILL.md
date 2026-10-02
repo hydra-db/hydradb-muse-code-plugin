@@ -1,6 +1,6 @@
 ---
 name: setup
-description: Configure the HydraDB Claude Code plugin for the current workspace. Use when the user wants to enable HydraDB memory, fix configuration, or create a workspace config file.
+description: Configure the HydraDB Muse Code plugin for this workspace. Use to enable memory, fix config, or create a config file.
 disable-model-invocation: true
 allowed-tools: Read, Write, Edit, MultiEdit, Bash(node *)
 ---
