@@ -61,7 +61,7 @@ Then set credentials (resolved by the shared engine):
 
 ```bash
 export HYDRADB_API_KEY="your-api-key"
-export HYDRADB_TENANT_ID="your-tenant-id"
+export HYDRADB_DATABASE="your-tenant-id"
 ```
 
 ## Running (two flags are required)
